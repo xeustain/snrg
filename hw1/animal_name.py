@@ -1,0 +1,6 @@
+print("Введите имя животного:")
+animal_name = input()
+print("Введите возраст животного:")
+animal_age = input()
+print("Ваше животное зовут -", animal_name, "Его возраст -", animal_age)
+input()
